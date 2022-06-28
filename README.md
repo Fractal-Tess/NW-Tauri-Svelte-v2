@@ -2,5 +2,8 @@
 
 ---
 
-Trying to play these tags, results in the following error:
+## Trying to play these tags, results in the following error:
+
 ![](static/ss.jpg)
+
+## The image tag works as expected
